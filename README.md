@@ -14,3 +14,6 @@ The process is easy!
 We aren't able to do all feature requests and bug fixes may take time. So please bear with us. 
 
 **Your involovement in this community is greatly appreciated.**
+
+## Find Out More
+You can find out more about this project, and how to contribute, on our website [ld-archive.org](https://ld-archive.org). Or visit our home on GitHub [@ld-archive](https://github.com/ld-archive).
