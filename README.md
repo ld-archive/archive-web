@@ -3,10 +3,16 @@ This repo is designed to help track bugs, feature requests and development of Th
 The Lighting Design Archive's home on the web is at [ld-archive.org](https://www.ld-archive.org) 
 You can visit our homepage to find out more about the project and our contributors.
 
+## Site Development
+The site is built using Wordpress,
+with a whole bunch of plugins and code tweaks. 
+The hope is that this will make the site easy to keep updated and to add new features. 
+Hopefully it will also allow continuity of the project. 
+
 ## Report a Bug or Make a Feature Request
 The website is built using WordPress.com. If you find a bug or unexpected behaviour please log it here on GitHUb.
 The process is easy!
-1. Create and account or log in.
+1. Create an account or log in.
 2. Navigate to the **Issues** tab. Or simply [click this link.](https://github.com/ld-archive/archive-web/issues)
 3. Select **New Issue** from the top right hand side.
 4. Choose your issue type and fill out the template!
